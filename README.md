@@ -3,6 +3,11 @@
 A robust, modern RESTful Web API built with **.NET** and **MongoDB**, designed for managing a video game catalog. This project features full CRUD operations, advanced aggregation pipelines using MongoDB Builders, and containerized deployment with Docker.
 
 ---
+## Integrantes
+- ** Pamella Christiny | rm565206
+- ** João Pedro Pereira Camilo | rm562005
+- ** Lucas Matsubara Reis | rm565020
+---
 
 ## 🚀 Features
 
